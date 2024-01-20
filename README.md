@@ -5,12 +5,12 @@ This module sets the scene and explains the fundamental concepts of both linguis
 
 
 ## Module 2 - Text Processing and Feature Engineering
-By the end of this module, you will acquire essential skills in text pre-processing and feature engineering. You will learn key techniques such as tokenization, lemmatization (symbolic/deterministic NLP), and TF-IDF vectorization (statistical NLP), enabling you to prepare and represent text data effectively. Through a real-world use case, you'll also gain experience in applying these techniques for practical tasks like Author Attribution.
+By the end of this module, you will acquire essential skills in text pre-processing and feature engineering. You will learn key techniques such as tokenization, lemmatization (symbolic/deterministic NLP), Bag-of-Words, TF-IDF vectorization and Ngrams (statistical NLP), enabling you to prepare and represent text data effectively. Through a real-world use case, you'll also gain experience in applying these techniques for practical tasks like Author Attribution.
 
 This module contains an exercise about [heuristic authorship attribution](https://github.com/lisabecker/nlp-fundamentals/blob/main/0204_who_wrote_it.ipynb).
 
 ## Module 3 - Traditional NLP Models
-In this module you’ll move from foundational knowledge in traditional, probabilistic models towards deep learning. You'll gain insights into classic models like Hidden Markov Models (HMMs).
+In this module you’ll move from foundational knowledge in traditional, probabilistic models towards deep learning. You'll gain insights into classic models like Naive Bayes classification and Hidden Markov Models (HMMs).
 
 ## Module 4 - Advanced NLP Models
 By the end of this module, you'll know the basics of advanced NLP technologies like the attention mechanism and transformers. We’ll look at how BERT can be fine tuned and used for specific tasks like text classification. You'll also understand the architecture, significance, and real-world applications of large language models (LLMs). Through a hands-on use case, you’ll fine tune T5 for summarization, enhancing your practical skills by tailoring models for specific tasks and domains.
