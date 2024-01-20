@@ -6,6 +6,7 @@ This module sets the scene and explains the fundamental concepts of both linguis
 
 ## Module 2 - Text Processing and Feature Engineering
 By the end of this module, you will acquire essential skills in text pre-processing and feature engineering. You will learn key techniques such as tokenization, lemmatization (symbolic/deterministic NLP), and TF-IDF vectorization (statistical NLP), enabling you to prepare and represent text data effectively. Through a real-world use case, you'll also gain experience in applying these techniques for practical tasks like Author Attribution.
+This module contains an exercise about [heuristic authorship attribution](https://github.com/lisabecker/nlp-fundamentals/blob/main/0204_who_wrote_it.ipynb).
 
 ## Module 3 - Traditional NLP Models
 In this module you’ll move from foundational knowledge in traditional, probabilistic models towards deep learning. You'll gain insights into classic models like Hidden Markov Models (HMMs).
@@ -15,3 +16,4 @@ By the end of this module, you'll know the basics of advanced NLP technologies l
 
 ## Module 5 - Real-Life Applications 
 In the final module, you'll explore various real-world applications of NLP across sectors like healthcare, finance, and customer service. You'll also gain awareness of the ethical considerations when applying NLP. This module serves as a capstone, integrating all the skills and knowledge gained throughout the course and pointing you toward further learning opportunities. A last use case teaches you how to leverage LLMs and Retrieval-Augmented Generation (RAG) to build a chat bot that accesses a custom knowledge base.
+This module contains an exercise about [LLMs and Retrieval Augmented Generation (RAG)](https://github.com/lisabecker/nlp-fundamentals/blob/main/0504_llms.ipynb).
